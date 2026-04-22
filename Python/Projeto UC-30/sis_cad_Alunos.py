@@ -193,7 +193,6 @@ def main():
             print("Tchau!\n")
             break
         else:
-            # Opção inválida: avisa e volta ao menu
             print("\n Digite um número de 1 a 4!")
 
 if __name__ == "__main__":
