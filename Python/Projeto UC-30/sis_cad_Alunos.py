@@ -1,7 +1,7 @@
 # SISTEMA DE CADASTRO DE ALUNOS
 # Projeto: Entrada, Processamento e Saída de Dados
 
-# CONSTANTES (valores fixos que não mudam no programa)
+# Constantes inalteraveis
 
 min_idade = 4
 max_idade = 19
@@ -11,8 +11,6 @@ turmas = ["A", "B"]
 # Cada aluno é um dicionário com: nome, idade e turma
 
 lista_alunos = []
-
-# FUNÇÕES
 
 def validar_nome(nome):
     """
